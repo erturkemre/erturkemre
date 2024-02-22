@@ -18,3 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erturkemre&" alt="erturkemre" /></p>
 
+
+
+![snake gif](https://github.com/erturkemre/erturkemre/blob/output/github-contribution-grid-snake.gif)
