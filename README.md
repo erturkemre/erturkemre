@@ -1,4 +1,4 @@
-[![MasterHead](https://img-c.udemycdn.com/course/750x422/5319816_3717_10.jpg)
+![MasterHead](https://img-c.udemycdn.com/course/750x422/5319816_3717_10.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Emre</h1>
